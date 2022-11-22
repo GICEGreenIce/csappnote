@@ -1,1 +1,2 @@
-# csappnote
+# CSAPP学习笔记
+希望能学完吧！
